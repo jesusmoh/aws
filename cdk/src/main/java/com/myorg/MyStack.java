@@ -28,7 +28,7 @@ public class MyStack extends Stack {
 
         new MyStack(app, "MyStack", StackProps.builder()
                 .env(Environment.builder()
-                        .account("369122614341")
+                        .account("369...")
                         .region("us-east-2")
                         .build())
                 .build());
